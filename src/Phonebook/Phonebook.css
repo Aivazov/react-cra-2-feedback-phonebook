@@ -1,0 +1,16 @@
+.ulStyle {
+  width: 350px;
+  padding: 0;
+  margin-left: 10px;
+}
+
+.listStyle {
+  /* margin-left: 10px; */
+  list-style: none;
+}
+
+.listStylePar {
+	display: flex;
+  align-items: center ;
+	justify-content: space-between;
+}

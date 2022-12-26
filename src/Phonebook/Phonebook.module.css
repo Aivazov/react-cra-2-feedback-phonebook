@@ -1,0 +1,10 @@
+.ulStyle {
+  width: 400px;
+  padding: 0;
+  margin-left: 10px;
+}
+
+.listStyle {
+	display: flex;
+	justify-content: space-between;
+} 
